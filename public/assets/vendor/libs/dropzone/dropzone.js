@@ -1,0 +1,1 @@
+/assets/vendor/libs/dropzone/dropzone.js
